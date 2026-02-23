@@ -12,8 +12,10 @@ public:
 	void stop();
 	void setSpeed(int speed, double threshold);
 
+	void heatSensor(float heatValue, int size);
+
 private:
 	
-	int rpm;
-
+	int rpm;	// radian per minute
+	
 };
