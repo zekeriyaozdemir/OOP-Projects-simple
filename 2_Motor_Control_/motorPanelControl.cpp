@@ -35,3 +35,15 @@ void Motor::heatSensor(float heatValue, int size)
 	}
 }
 
+void Motor::testMeasurement(int test_speed, double test_heat)
+{
+	if (test_speed <= 100 && test_heat <= 100.0)
+	{
+		cout << endl << "The motor is testing with " << test_speed << "rpm and testing under " << test_heat << " Kelvin..." << endl;
+	}
+	else 
+	{
+		cout << endl << "You are UNSAFELY launching test, BE CAREFUL !" << endl;
+	}
+}
+
