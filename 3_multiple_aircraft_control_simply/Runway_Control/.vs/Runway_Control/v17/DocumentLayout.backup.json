@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:aircraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\uav.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:uav.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\uav.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:uav.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\fighterjet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:fighterjet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\fighterjet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:fighterjet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aeroplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:aeroplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aeroplane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:aeroplane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:aircraft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|solutionrelative:aircraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B57F7E6-7920-43B9-B3AA-EA279D5946CE}|Runway_Control.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-26T15:38:45.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "aircraft.cpp",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.cpp",
+              "RelativeDocumentMoniker": "aircraft.cpp",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.cpp",
+              "RelativeToolTip": "aircraft.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-26T15:39:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "aircraft.h",
               "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.h",
               "RelativeDocumentMoniker": "aircraft.h",
               "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.h",
               "RelativeToolTip": "aircraft.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-26T15:39:25.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "aircraft.cpp",
-              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.cpp",
-              "RelativeDocumentMoniker": "aircraft.cpp",
-              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aircraft.cpp",
-              "RelativeToolTip": "aircraft.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "aeroplane.cpp",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aeroplane.cpp",
+              "RelativeDocumentMoniker": "aeroplane.cpp",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aeroplane.cpp",
+              "RelativeToolTip": "aeroplane.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-26T15:39:01.948Z",
+              "WhenOpened": "2026-02-26T19:25:57.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "aeroplane.h",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aeroplane.h",
+              "RelativeDocumentMoniker": "aeroplane.h",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\aeroplane.h",
+              "RelativeToolTip": "aeroplane.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-26T19:25:26.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fighterjet.cpp",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\fighterjet.cpp",
+              "RelativeDocumentMoniker": "fighterjet.cpp",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\fighterjet.cpp",
+              "RelativeToolTip": "fighterjet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-26T19:22:49.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fighterjet.h",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\fighterjet.h",
+              "RelativeDocumentMoniker": "fighterjet.h",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\fighterjet.h",
+              "RelativeToolTip": "fighterjet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-26T19:20:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uav.cpp",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\uav.cpp",
+              "RelativeDocumentMoniker": "uav.cpp",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\uav.cpp",
+              "RelativeToolTip": "uav.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-26T19:16:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uav.h",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\uav.h",
+              "RelativeDocumentMoniker": "uav.h",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\3_multiple_aircraft_control_simply\\Runway_Control\\uav.h",
+              "RelativeToolTip": "uav.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-26T19:14:15.714Z",
               "EditorCaption": ""
             }
           ]

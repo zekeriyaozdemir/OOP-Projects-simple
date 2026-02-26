@@ -5,16 +5,20 @@ using namespace std;
 
 class Aircraft {
 
-public:
-
-	void getName(string name, double maxSpeed);
-	void engineStart();
-	void engineStop();
-	void pushSpeed();
-	void takeOff();
-	void landing();
-
-private:
+protected:
 	string name;
 	double maxSpeed;
+
+
+public:
+
+	Aircraft(string name, double maxSpeed);
+
+	virtual void engineStart();
+	virtual void engineStop();
+	virtual void takeOff();
+	virtual void landing();
+
+	void getInfo();
+
 };

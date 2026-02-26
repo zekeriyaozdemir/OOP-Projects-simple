@@ -3,9 +3,10 @@
 
 using namespace std;
 
-void Aircraft::getName(string name, double maxSpeed)
+Aircraft::Aircraft(string name, double maxSpeed)
 {
-	cout << "the aircraft name is " << name << endl << "Max Speed: " << maxSpeed << endl;
+	this->name = name;
+	this->maxSpeed = maxSpeed;
 }
 
 void Aircraft::engineStart()
@@ -18,10 +19,6 @@ void Aircraft::engineStop()
 	cout << "Engine Stopping..." << endl;
 }
 
-void Aircraft::pushSpeed()
-{
-	cout << "Engine Speed..." << endl;
-}
 
 void Aircraft::takeOff()
 {
@@ -33,4 +30,10 @@ void Aircraft::landing()
 {
 	cout << "Aircraft landing..." << endl;
 
+}
+
+void Aircraft::getInfo()
+{
+	cout << "Name: " << name << endl;
+	cout << "Max Speed: " << maxSpeed << endl;
 }
