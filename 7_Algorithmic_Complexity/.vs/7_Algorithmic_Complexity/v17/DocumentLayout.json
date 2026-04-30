@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D71BEBA-2D4B-49EB-8C97-F59A2AAB0BD8}|7_Algorithmic_Complexity.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Binary_Search_in_LUT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D71BEBA-2D4B-49EB-8C97-F59A2AAB0BD8}|7_Algorithmic_Complexity.vcxproj|solutionrelative:Binary_Search_in_LUT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D71BEBA-2D4B-49EB-8C97-F59A2AAB0BD8}|7_Algorithmic_Complexity.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Peak_Sample_in_Buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D71BEBA-2D4B-49EB-8C97-F59A2AAB0BD8}|7_Algorithmic_Complexity.vcxproj|solutionrelative:Peak_Sample_in_Buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D71BEBA-2D4B-49EB-8C97-F59A2AAB0BD8}|7_Algorithmic_Complexity.vcxproj|C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Naive_Cross_Correlation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D71BEBA-2D4B-49EB-8C97-F59A2AAB0BD8}|7_Algorithmic_Complexity.vcxproj|solutionrelative:Naive_Cross_Correlation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binary_Search_in_LUT.cpp",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Binary_Search_in_LUT.cpp",
+              "RelativeDocumentMoniker": "Binary_Search_in_LUT.cpp",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Binary_Search_in_LUT.cpp",
+              "RelativeToolTip": "Binary_Search_in_LUT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T15:10:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peak_Sample_in_Buffer.cpp",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Peak_Sample_in_Buffer.cpp",
+              "RelativeDocumentMoniker": "Peak_Sample_in_Buffer.cpp",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Peak_Sample_in_Buffer.cpp",
+              "RelativeToolTip": "Peak_Sample_in_Buffer.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T14:54:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Naive_Cross_Correlation.cpp",
+              "DocumentMoniker": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Naive_Cross_Correlation.cpp",
+              "RelativeDocumentMoniker": "Naive_Cross_Correlation.cpp",
+              "ToolTip": "C:\\Users\\zkdem\\OneDrive\\Masa\u00FCst\u00FC\\OOP_Projects\\7_Algorithmic_Complexity\\Naive_Cross_Correlation.cpp",
+              "RelativeToolTip": "Naive_Cross_Correlation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T14:02:39.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

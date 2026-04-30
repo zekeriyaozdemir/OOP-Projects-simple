@@ -1,0 +1,4 @@
+﻿  Binary_Search_in_LUT.cpp
+C:\Users\zkdem\OneDrive\Masaüstü\OOP_Projects\7_Algorithmic_Complexity\Binary_Search_in_LUT.cpp(17,17): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\zkdem\OneDrive\Masaüstü\OOP_Projects\7_Algorithmic_Complexity\Binary_Search_in_LUT.cpp(29,1): warning C4715: 'findValue': tüm denetim yolları değer döndürmez
+  7_Algorithmic_Complexity.vcxproj -> C:\Users\zkdem\OneDrive\Masaüstü\OOP_Projects\7_Algorithmic_Complexity\x64\Debug\7_Algorithmic_Complexity.exe
